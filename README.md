@@ -19,8 +19,6 @@ Mientras te enfrentas a los hackers irás descubriendo información sobre ellos 
 <b>Objetivo: </b>
 
 <b>Plataformas y Regiones: </b>
-  
-<b>Background literario (Contexto argumental): </b>
 
 # 2. ESTRUCTURA DEL JUEGO
 <b>Pantallas: </b>
@@ -39,6 +37,8 @@ Mientras te enfrentas a los hackers irás descubriendo información sobre ellos 
 
 # 3. LOGÍSTICA
 <b>Herramientas de desarrollo: </b>
+
+<b>Modelo de negocio: </b>
 
 <b>Monetización: </b>
 
