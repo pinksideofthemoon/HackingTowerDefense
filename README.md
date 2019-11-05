@@ -21,10 +21,9 @@ Mientras te enfrentas a los hackers irás descubriendo información sobre ellos 
 <b>Plataformas y Regiones: </b>
 
 # 2. ESTRUCTURA DEL JUEGO
-<b>Pantallas: </b>
-<b></b>
+<br>Pantallas: </br>
 <img alt="Pantallas" src="Documentation/DiagramaPantallas.png" width="400">
-<b>Mecánicas de juego: </b>
+<br>Mecánicas de juego: </br>
 
 <b>Controles: </b>
 
