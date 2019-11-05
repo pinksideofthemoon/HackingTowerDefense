@@ -22,7 +22,7 @@ Mientras te enfrentas a los hackers irás descubriendo información sobre ellos 
 
 # 2. ESTRUCTURA DEL JUEGO
 <b>Pantallas: </b>
-
+<img alt="Pantallas" src="Documentation/DiagramaPantallas.png" width="400">
 <b>Mecánicas de juego: </b>
 
 <b>Controles: </b>
