@@ -28,6 +28,22 @@ Mientras te enfrentas a los hackers irás descubriendo información sobre ellos 
 <br>CONTROLES</br>
 
 <br>TIPOS DE TORRES</br>
+<p>Torre básica<br>
+Dispara a un solo objetivo de manera intermitente<br>
+Velocidad de disparo: rápida<br>
+Coste: bajo<br></p>
+<p>Torre en área<br>
+Sus ataques cubren un área en el que dañan a todos los objetivos<br>
+Velocidad de disparo: lenta<br>
+Coste: medio<br></p>
+<p>Torre ralentizadora<br>
+Sus ataques cubren un área pero no hacen daño sino que reducen la velocidad de los enemigos<br>
+Velocidad de disparo: media<br>
+Coste: medio<br></p>
+<p>Torre de rayos<br>
+Dispara de manera continua y sus ataques afectan a un solo objetivo<br>
+Coste: alto<br></p>
+<p><b>NOTA:</b> Todas las torres disparan al primer objetivo que entra a su rango hasta que sale del mismo, después seleccionan al siguiente más adelantado dentro de su rango</p>
 
 <br>MEJORAS PARA LAS TORRES</br>
 
