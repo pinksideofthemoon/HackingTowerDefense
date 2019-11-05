@@ -4,50 +4,49 @@
 
 # 1. INTRODUCCIÓN 
 
-<b>Equipo de Desarrollo: </b>
-
+<br>Equipo de Desarrollo: </br>
 Nuestro equipo de desarrollo, Rodillo´s Games, está compuesto por los siguientes integrantes:
 + Departamento de <b>Programación</b>: Andrés y Manuel.
 + Departamento de <b>Diseño</b>: Javier y Laura.
 + Departamento de <b>Arte</b>: Daniel.
 
-<b>Descripción: </b>
+<br>Descripción: </br>
 Has creado un programa que de salir a a la luz cambiará la realidad tal y como la conocemos. Viendo lo peligroso que puede llegar a ser decides no compartirlo con el mundo, pero después de todo tu trabajo no te sientes capaz de destruirlo.
 Ahora varios hackers tratan de robar los datos de tu programa y solo podrás protegerlo mediante uno de los protocolos que forman parte de él, el protocolo TOWER.
 Mientras te enfrentas a los hackers irás descubriendo información sobre ellos y se irá mostrando el verdadero propósito del programa. puede que incluso cambies de opinión sobre su uso.
 
-<b>Objetivo: </b>
+<br>Objetivo: </br>
 
-<b>Plataformas y Regiones: </b>
+<br>Plataformas y Regiones: </br>
 
 # 2. ESTRUCTURA DEL JUEGO
 <br>Pantallas: </br>
 <img alt="Pantallas" src="Documentation/DiagramaPantallas.png" width="400">
 <br>Mecánicas de juego: </br>
 
-<b>Controles: </b>
+<br>Controles: </br>
 
-<b>Tipos de torres: </b>
+<br>Tipos de torres: </br>
 
-<b>Mejoras para las torres: </b>
+<br>Mejoras para las torres: </br>
 
-<b>Tipos de enemigos: </b>
+<br>Tipos de enemigos: </br>
 
-<b>Puntuación: </b>
+<br>Puntuación: </br>
 
 # 3. LOGÍSTICA
-<b>Herramientas de desarrollo: </b>
+<br>Herramientas de desarrollo: </br>
 
-<b>Modelo de negocio: </b>
+<br>Modelo de negocio: </br>
 
-<b>Monetización: </b>
+<br>Monetización: </br>
 
-<b>Futuro de Hacking Tower Defense: </b>
+<br>Futuro de Hacking Tower Defense: </br>
 
-<b>Hosting (Alojamiento del proyecto): </b> 
+<br>Hosting (Alojamiento del proyecto): </br> 
 
 # 4. CONTACTO
-<b>Contacto y Redes Sociales: </b>
+<br>Contacto y Redes Sociales: </br>
 
 Facebook: Rodillo´s Gaming
 facebook.com/rodillos.gaming.9
