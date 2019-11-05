@@ -4,49 +4,50 @@
 
 # 1. INTRODUCCIÓN 
 
-<br>Equipo de Desarrollo: </br>
+<br>EQUIPO DE DESARROLLO</br>
 Nuestro equipo de desarrollo, Rodillo´s Games, está compuesto por los siguientes integrantes:
 + Departamento de <b>Programación</b>: Andrés y Manuel.
 + Departamento de <b>Diseño</b>: Javier y Laura.
 + Departamento de <b>Arte</b>: Daniel.
 
-<br>Descripción: </br>
+<br>DESCRIPCIÓN</br>
 Has creado un programa que de salir a a la luz cambiará la realidad tal y como la conocemos. Viendo lo peligroso que puede llegar a ser decides no compartirlo con el mundo, pero después de todo tu trabajo no te sientes capaz de destruirlo.
 Ahora varios hackers tratan de robar los datos de tu programa y solo podrás protegerlo mediante uno de los protocolos que forman parte de él, el protocolo TOWER.
 Mientras te enfrentas a los hackers irás descubriendo información sobre ellos y se irá mostrando el verdadero propósito del programa. puede que incluso cambies de opinión sobre su uso.
 
-<br>Objetivo: </br>
+<br>OBJETIVO</br>
 
-<br>Plataformas y Regiones: </br>
+<br>PLATAFORMAS Y REGIONES</br>
 
 # 2. ESTRUCTURA DEL JUEGO
-<br>Pantallas: </br>
+<br>PANTALLAS</br>
 <img alt="Pantallas" src="Documentation/DiagramaPantallas.png" width="400">
-<br>Mecánicas de juego: </br>
 
-<br>Controles: </br>
+<br>MECÁNICAS DE JUEGO</br>
 
-<br>Tipos de torres: </br>
+<br>CONTROLES</br>
 
-<br>Mejoras para las torres: </br>
+<br>TIPOS DE TORRES</br>
 
-<br>Tipos de enemigos: </br>
+<br>MEJORAS PARA LAS TORRES</br>
 
-<br>Puntuación: </br>
+<br>TIPOS DE ENEMIGOS</br>
+
+<br>PUNTUACIÓN</br>
 
 # 3. LOGÍSTICA
-<br>Herramientas de desarrollo: </br>
+<br>HERRAMIENTAS DE DESARROLLO</br>
 
-<br>Modelo de negocio: </br>
+<br>MODELO DE NEGOCIO</br>
 
-<br>Monetización: </br>
+<br>MONETIZACIÓN</br>
 
-<br>Futuro de Hacking Tower Defense: </br>
+<br>FUTURO DE HACKING TOWER DEFENSE</br>
 
-<br>Hosting (Alojamiento del proyecto): </br> 
+<br>HOSTING</br> 
 
 # 4. CONTACTO
-<br>Contacto y Redes Sociales: </br>
+<br>CONTACTO Y REDES SOCIALES</br>
 
 Facebook: Rodillo´s Gaming
 facebook.com/rodillos.gaming.9
@@ -61,3 +62,5 @@ Youtube: Rodillos Gaming
 youtube.com/channel/UCUaR00AHGi0U2Z7mT9jfVfw
 
 email: rodillosgaming@gmail.com
+
+<b>¡GRACIAS POR JUGAR! :)</b>
