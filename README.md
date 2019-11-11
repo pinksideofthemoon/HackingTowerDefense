@@ -9,27 +9,32 @@ Nuestro equipo de desarrollo, Rodillo´s Games, está compuesto por los siguient
 + Departamento de <b>Programación</b>: Andrés y Manuel.
 + Departamento de <b>Diseño</b>: Javier y Laura.
 + Departamento de <b>Arte</b>: Daniel.
+<br>
 
-## <br>DESCRIPCIÓN</br>
+## DESCRIPCIÓN
 Has creado un programa que de salir a a la luz cambiará la realidad tal y como la conocemos. Viendo lo peligroso que puede llegar a ser decides no compartirlo con el mundo, pero después de todo tu trabajo no te sientes capaz de destruirlo.<br>
 Ahora varios hackers tratan de robar los datos de tu programa y solo podrás protegerlo mediante uno de los protocolos que forman parte de él, el protocolo TOWER.<br>
 Mientras te enfrentas a los hackers irás descubriendo información sobre ellos y se irá mostrando el verdadero propósito del programa. Puede que incluso cambies de opinión sobre su uso.<br>
+<br>
 
-## <br>OBJETIVO</br>
+## OBJETIVO
+<br>
 
-## <br>PLATAFORMAS Y REGIONES</br>
-
+## PLATAFORMAS Y REGIONES
 <br>
 
 # 2. ESTRUCTURA DEL JUEGO
-## <br>PANTALLAS</br>
+## PANTALLAS
 <img alt="Pantallas" src="Documentation/DiagramaPantallas.png" width="400">
+<br>
 
-## <br>MECÁNICAS DE JUEGO</br>
+## MECÁNICAS DE JUEGO
+<br>
 
-## <br>CONTROLES</br>
+## CONTROLES
+<br>
 
-## <br>TIPOS DE TORRES</br>
+## TIPOS DE TORRES
 <p><b>Torre básica</b><br>
 - Dispara a un solo objetivo de manera intermitente<br>
 - Velocidad de disparo: rápida<br>
@@ -50,14 +55,16 @@ Mientras te enfrentas a los hackers irás descubriendo información sobre ellos 
 - Coste: alto<br>
 <img alt="torre_rayos_concept" src="Images/torre_rayos_concept.png" width="400"></p></p>
 <p><b>NOTA:</b> Todas las torres disparan al primer objetivo que entra a su rango hasta que sale del mismo, después seleccionan al siguiente más adelantado dentro de su rango</p>
+<br>
 
-## <br>MEJORAS PARA LAS TORRES</br>
+## MEJORAS PARA LAS TORRES
 - Mayor velocidad de disparo
 - Mayor daño por disparo
 - Mayor rango
 - Disparo a múltiples objetivos simultáneamente (por ejemplo para la de rayos)
+<br>
 
-## <br>TIPOS DE ENEMIGOS</br>
+## TIPOS DE ENEMIGOS
 <p><b>Enemigo básico</b><br>
 - Velocidad: lenta<br>
 - Vida: media<br>
@@ -83,15 +90,19 @@ Mientras te enfrentas a los hackers irás descubriendo información sobre ellos 
 
 <p>El coste es el daño que produce un enemigo al llegar a la base que se está defendiendo. En otras palabras los datos que se han robado sobre el total de los datos.<br>
 Cada vez que un enemigo sea derrotado devolverá su coste como moneda.</p>
+<br>
 
-## <br>PUNTUACIÓN</br>
+## PUNTUACIÓN
+<br>
 
 # 3. LOGÍSTICA
-## <br>HERRAMIENTAS DE DESARROLLO</br>
+## HERRAMIENTAS DE DESARROLLO
+<br>
 
-## <br>MODELO DE NEGOCIO</br>
+## MODELO DE NEGOCIO
+<br>
 
-## <br>MONETIZACIÓN</br>
+## MONETIZACIÓN
 <p>Formato episódico: cada episodio tiene un conjunto de niveles y personajes (hackers) sobre los que vas descubriendo información. Según progresa la historia se irá revelando más información sobre el programa.
 Los episodios se irán lanzando según se vayan desarrollando con un precio preestablecido para todos.<br></p>
 
@@ -100,13 +111,16 @@ Los episodios se irán lanzando según se vayan desarrollando con un precio pree
 <p>DLC Modo multijugador: en este modo el objetivo será aguantar más tiempo que el rival, de manera que consigas robar todos su datos sin que él robe los tuyos.<br></p>
 
 <p>DLC Editor de escenarios: en este modo puedes crear tus propios escenarios, y configurar los enemigos para compartirlos con otros jugadores o jugarlos tú mismo.<br></p>
+<br>
 
-## <br>FUTURO DE HACKING TOWER DEFENSE</br>
+## FUTURO DE HACKING TOWER DEFENSE
+<br>
 
-## <br>HOSTING</br> 
+## HOSTING
+<br>
 
 # 4. CONTACTO
-## <br>MAIL, PLATAFORMAS INDIES Y REDES SOCIALES</br>
+## MAIL, PLATAFORMAS INDIES Y REDES SOCIALES
 
 + Facebook: Rodillo´s Gaming
 facebook.com/rodillos.gaming.9
@@ -121,5 +135,6 @@ rodillos-gaming.itch.io/
 youtube.com/channel/UCUaR00AHGi0U2Z7mT9jfVfw
 
 + email: rodillosgaming@gmail.com
+<br>
 
 <b>¡GRACIAS POR JUGAR! :)</b>
