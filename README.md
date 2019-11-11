@@ -82,7 +82,7 @@ La transición entre pantallas se conseguirá mediante click en los botones de l
 <br>
 
 ## TIPOS DE ENEMIGOS
-<p><b>Enemigo básico</b><br>
+<p><b>Básico</b><br>
 - Velocidad: lenta<br>
 - Vida: media<br>
 - Coste: 1<br></p>
