@@ -48,9 +48,9 @@ Cuando vayas superando mapas, se te irán entregando nuevas y diferentes torres 
 
 ## CONTROLES
 Los controles serán puramente táctiles en el caso de móviles, y clickeando en el caso de ordenadores. <br>
-La transición entre pantallas se conseguirá mediante click en los botones de la interfaz. Asimismo, la colocación de torres en el mapa se realizará igual.<br>
-
+La transición entre pantallas se conseguirá mediante click en los botones de la interfaz. Asimismo, la colocación de torres en el mapa se realizará igual.
 <br>
+
 
 ## TIPOS DE TORRES
 <p><b>Torre básica</b><br>
@@ -113,6 +113,7 @@ Cada vez que un enemigo sea derrotado devolverá su coste como moneda.</p>
 ## MAPAS
 Los mapas del juego variarán según el nivel en el que estés. Son espacios estáticos y con un recorrido pre-establecido.<br>
 Pero cada partida será diferente, pues las combinaciones de enemigos serán aleatorias, consiguiendo que el jugador deba emplear diferentes estrategias según las circunstancias.
+<br>
 
 ## PUNTUACIÓN
 <br>
@@ -122,9 +123,6 @@ Pero cada partida será diferente, pues las combinaciones de enemigos serán ale
 Se trata de un videojuego en 3D, por lo que será desarrollado con el motor gráfico *Unity 3D* respaldado con el IDE *Microsoft Visual Studio 2019* para codificación.<br>
 Para la etapa de Concept Art, se utilizará *Adobe Photoshop CC 2018*.
 En Modelado se usará *ZBrush* y en Texturización *Substance*.
-<br>
-
-## MODELO DE NEGOCIO
 <br>
 
 ## MONETIZACIÓN
@@ -141,6 +139,7 @@ Los episodios se irán lanzando según se vayan desarrollando con un precio pree
 <br>
 
 ## HOSTING
+El hosting del proyecto se hará en <b>*Git*</b>, del que podrán nutrirse *Facebook* e *itch.io*
 <br>
 
 # 4. CONTACTO
