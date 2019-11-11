@@ -6,8 +6,9 @@
 # 1. INTRODUCCIÓN 
 ## EQUIPO DE DESARROLLO
 Nuestro equipo de desarrollo, Rodillo´s Games, está compuesto por los siguientes integrantes:
-+ Departamento de <b>Programación</b>: Andrés y Manuel.
++ Departamento de <b>Programación</b>: Andrés, Manuel y Javier.
 + Departamento de <b>Diseño</b>: Javier y Laura.
++ Departamento de <b>Modelado y Texturización</b>: Daniel y Laura
 + Departamento de <b>Arte</b>: Daniel.
 <br>
 
@@ -18,20 +19,37 @@ Mientras te enfrentas a los hackers irás descubriendo información sobre ellos 
 <br>
 
 ## OBJETIVO
+El objetivo de *Hacking Tower Defense* es proteger tu nuevo programa para evitar que los hackers accedan a él y te roben datos. Para ello, podrás valerte de una serie de torres en los límites físicos del programa que atacarán a todo agente sospechoso que se acerque por la zona. Dispondrás un terreno finito y tu tarea será gestionar y desplegar las distintas torres con las que cuentes en tu inventario. Pero cuidado, si algún hacker consigue entrar, empezará a robarte información y tu código irá desapareciendo paulatinamente hasta que se adueñen de todo tu programa. <b>¡Debes impedirlo!</b>
 <br>
 
 ## PLATAFORMAS Y REGIONES
+*Hacking Tower Defense* será lanzado originalmente para dispositivos móviles y ordenadores.
 <br>
 
 # 2. ESTRUCTURA DEL JUEGO
 ## PANTALLAS
+El juego dispone de las siguientes pantallas:
++ Menú principal
++ Ajustes
++ Créditos
++ Selección de nivel
++ Pantalla de juego (*in-game*)
++ Menú de pausa
+Desde Ajustes, Créditos, Selección de nivel o el mismo juego, podemos regresar al Menú Principal (perdiendo los últimos avances de la partida en el caso de la Pantalla de Juego), y desde él podremos salir de la aplicación.<br>
+El Menú de Pausa congelará el juego. Desde él, podremos regresar a él en el último punto o salir al Menú Principal con la consecuente pérdida del avance.<br>
+La transición de pantallas es la que se indica en el siguiente diagrama.<br>
 <img alt="Pantallas" src="Documentation/DiagramaPantallas.png" width="400">
 <br>
 
 ## MECÁNICAS DE JUEGO
+*Hacking Tower Defense* es un juego estratégico, por lo que las mecánicas son bastantes simples y la experiencia de juego va a depender de la <b>gestión de las unidades en tu inventario<b>.<br>
+Cuando vayas superando mapas, se te irán entregando nuevas y diferentes torres cuya actuación respecto a los enemigos es distinta. Algunos valores mejoran, y otros empeoran. E incluso aparecen algunos nuevos. La responsabilidad del jugador será sopesar los atributos de las torres defensivas y su efectividad contra los distintos tipos de enemigos que podrán ir apareciendo.
 <br>
 
 ## CONTROLES
+Los controles serán puramente táctiles en el caso de móviles, y clickeando en el caso de ordenadores. <br>
+La transición entre pantallas se conseguirá mediante click en los botones de la interfaz. Asimismo, la colocación de torres en el mapa se realizará igual.<br>
+
 <br>
 
 ## TIPOS DE TORRES
@@ -92,28 +110,34 @@ Mientras te enfrentas a los hackers irás descubriendo información sobre ellos 
 Cada vez que un enemigo sea derrotado devolverá su coste como moneda.</p>
 <br>
 
+## MAPAS
+Los mapas del juego variarán según el nivel en el que estés. Son espacios estáticos y con un recorrido pre-establecido.<br>
+Pero cada partida será diferente, pues las combinaciones de enemigos serán aleatorias, consiguiendo que el jugador deba emplear diferentes estrategias según las circunstancias.
+
 ## PUNTUACIÓN
 <br>
 
 # 3. LOGÍSTICA
 ## HERRAMIENTAS DE DESARROLLO
+Se trata de un videojuego en 3D, por lo que será desarrollado con el motor gráfico *Unity 3D* respaldado con el IDE *Microsoft Visual Studio 2019* para codificación.<br>
+Para la etapa de Concept Art, se utilizará *Adobe Photoshop CC 2018*.
+En Modelado se usará *ZBrush* y en Texturización *Substance*.
 <br>
 
 ## MODELO DE NEGOCIO
 <br>
 
 ## MONETIZACIÓN
-<p>Formato episódico: cada episodio tiene un conjunto de niveles y personajes (hackers) sobre los que vas descubriendo información. Según progresa la historia se irá revelando más información sobre el programa.
+<p><b>Formato episódico:</br> cada episodio tiene un conjunto de niveles y personajes (hackers) sobre los que vas descubriendo información. Según progresa la historia se irá revelando más información sobre el programa.
 Los episodios se irán lanzando según se vayan desarrollando con un precio preestablecido para todos.<br></p>
 
-<p>Booklet de concept: por un pequeño extra puedes obtener un libro con el arte original del juego y comentarios sobre los diseños, así como contenido extra que amplía el del juego.<br></p>
-
-<p>DLC Modo multijugador: en este modo el objetivo será aguantar más tiempo que el rival, de manera que consigas robar todos su datos sin que él robe los tuyos.<br></p>
-
-<p>DLC Editor de escenarios: en este modo puedes crear tus propios escenarios, y configurar los enemigos para compartirlos con otros jugadores o jugarlos tú mismo.<br></p>
+<p><b>Booklet de concept:</b> por un pequeño extra puedes obtener un libro con el arte original del juego y comentarios sobre los diseños, así como contenido extra que amplía el del juego.<br></p>
 <br>
 
 ## FUTURO DE HACKING TOWER DEFENSE
+<p><b>DLC Modo multijugador:</b> en este modo el objetivo será aguantar más tiempo que el rival, de manera que consigas robar todos su datos sin que él robe los tuyos.<br></p>
+
+<p><b>DLC Editor de escenarios:</b> en este modo puedes crear tus propios escenarios, y configurar los enemigos para compartirlos con otros jugadores o jugarlos tú mismo.<br></p>
 <br>
 
 ## HOSTING
@@ -122,16 +146,16 @@ Los episodios se irán lanzando según se vayan desarrollando con un precio pree
 # 4. CONTACTO
 ## MAIL, PLATAFORMAS INDIES Y REDES SOCIALES
 
-+ Facebook: Rodillo´s Gaming
++ Facebook: Rodillo´s Gaming<br>
 facebook.com/rodillos.gaming.9
 
-+ Twitter: @RodillosGaming  
++ Twitter: @RodillosGaming<br>
 twitter.com/RodillosGaming
 
-+ itch.io: Rodillos Gaming
++ itch.io: Rodillos Gaming<br>
 rodillos-gaming.itch.io/
 
-+ Youtube: Rodillos Gaming
++ Youtube: Rodillos Gaming<br>
 youtube.com/channel/UCUaR00AHGi0U2Z7mT9jfVfw
 
 + email: rodillosgaming@gmail.com
