@@ -2,9 +2,9 @@
 
 # GAME DESIGN DOCUMENT DE HACKING TOWER DEFENSE
 
-# 1. INTRODUCCIÓN 
 
-## <br> EQUIPO DE DESARROLLO</br>
+# 1. INTRODUCCIÓN 
+## EQUIPO DE DESARROLLO
 Nuestro equipo de desarrollo, Rodillo´s Games, está compuesto por los siguientes integrantes:
 + Departamento de <b>Programación</b>: Andrés y Manuel.
 + Departamento de <b>Diseño</b>: Javier y Laura.
@@ -18,6 +18,8 @@ Mientras te enfrentas a los hackers irás descubriendo información sobre ellos 
 ## <br>OBJETIVO</br>
 
 ## <br>PLATAFORMAS Y REGIONES</br>
+
+<br>
 
 # 2. ESTRUCTURA DEL JUEGO
 ## <br>PANTALLAS</br>
